@@ -1,4 +1,5 @@
 # hdfs-demo
 
 
-this repositories includes some practice between the learning of hdfs
+This repository includes some practices between the learning of HDFS.
+
